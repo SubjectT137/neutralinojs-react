@@ -6,6 +6,9 @@ import App from './App';
 // Import init function from "@neutralinojs/lib"
 import { init } from "@neutralinojs/lib"
 
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
